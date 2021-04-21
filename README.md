@@ -1,1 +1,31 @@
-# AR-Live-Location-Map
+<html>
+<body>
+<h1 align="center"> AR-Map
+</h1> <img src="./Images/ar-map.png" width="300" height="300" align="right" align="top"> 
+
+<li>The .apk file for the AR build can be found in the github releases page related to the repository.<br></li>
+
+<h2 align="left"> The Problem </h2>  
+Opening maps, waiting for it to load and searching your location in a small screen of a mobile can be sometimes frustrating & pretty boring as well. Boring why? I mean it's not in AR ofcourse :)
+
+<h2 align="left"> Solution </h2>  
+This AR application provides a interesting solution to the problem. By using the power of MapBox SDK and AR Foundation, it can successfully show us a 3D map in augmented space with the precise location of the user. The user would know their exact location (no matter whichever part of the world they are from) and also get entertained by using a different kind of app rather than the same monotonous boring one.
+
+<h2 align="left"> Tech Stack </h2>  
+
+Purpose | Tool
+------- | -------
+Base Software/Tool | Unity 2020.4 LTS
+AR Integration | Unity Engine x AR Foundation x Google AR Core
+Live Map Data/Location |  Mapbox SDK
+
+<h2 align="left"> Working Demo v0.5</h2>
+https://youtu.be/lAT0sBPolh0
+
+![Demo1](https://github.com/ReanSchwarzer1/AR-Live-Location-Map/blob/main/Images/proto1.gif "Demo1")
+
+<h2 align="left"> Instructions </h2>  
+<li>Download and install the .apk file to run on an ARCore supported android device.<br></li>
+
+</body>
+</html>
