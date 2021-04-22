@@ -9,7 +9,10 @@
 Opening maps, waiting for it to load and searching your location in a small screen of a mobile can be sometimes frustrating & pretty boring as well. Boring why? I mean it's not in AR ofcourse :)
 
 <h2 align="left"> Solution </h2>  
-This AR application provides a interesting solution to the problem. By using the power of MapBox SDK and AR Foundation, it can successfully show us a 3D map in augmented space with the precise location of the user. The user would know their exact location (no matter whichever part of the world they are from) and also get entertained by using a different kind of app rather than the same monotonous boring one. The app also provides 3D elevation to houses/buildings with polygons and also shows proper elevation in places like hills etc.
+This AR application provides a interesting solution to the problem. By using the power of MapBox SDK and AR Foundation, it can successfully show us a 3D map in augmented space with the precise location of the user. The user would know their exact location (no matter whichever part of the world they are from) and also get entertained by using a different kind of app rather than the same monotonous boring one.
+Added functionalities such as:
+<li>The app also provides 3D elevation to houses/buildings with polygons and also shows proper elevation in places like hills etc.<br></li><br></li>
+<li>Added points of interests such as restaurants, services, transport facilities, etc on the map with suitable icons<br></li>
 
 <h2 align="left"> Tech Stack </h2>  
 
