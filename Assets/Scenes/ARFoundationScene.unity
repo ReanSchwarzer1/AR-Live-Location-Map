@@ -909,7 +909,7 @@ PrefabInstance:
     - target: {fileID: 8023986523183403416, guid: a477c3e94e2f1034ca26f23f05f934f3,
         type: 3}
       propertyPath: _vectorData._layerProperty.locationPrefabList.Array.data[4].categories
-      value: -1
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 8023986523183403416, guid: a477c3e94e2f1034ca26f23f05f934f3,
         type: 3}
@@ -959,7 +959,7 @@ PrefabInstance:
     - target: {fileID: 8023986523183403416, guid: a477c3e94e2f1034ca26f23f05f934f3,
         type: 3}
       propertyPath: _vectorData._layerProperty.locationPrefabList.Array.data[4].coreOptions.isActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8023986523183403416, guid: a477c3e94e2f1034ca26f23f05f934f3,
         type: 3}
