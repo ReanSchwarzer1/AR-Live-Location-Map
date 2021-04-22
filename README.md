@@ -22,10 +22,11 @@ Base Software/Tool | Unity 2020.4 LTS
 AR Integration | Unity Engine x AR Foundation x Google AR Core
 Live Map Data/Location |  Mapbox SDK
 
-<h2 align="left"> Working Demo v0.5</h2>
-https://youtu.be/lAT0sBPolh0
+<h2 align="left"> Working Demo v0.7</h2>
+https://youtu.be/fcPIsgQbmw8
 
-![Demo1](https://github.com/ReanSchwarzer1/AR-Live-Location-Map/blob/main/Images/proto1.gif "Demo1")
+</h1> <img src="./Images/4.jpeg" width="300" height="300" align="right" align="top"> 
+
 
 <h2 align="left"> Instructions </h2>  
 <li>Download and install the .apk file to run on an ARCore supported android device.<br></li>
