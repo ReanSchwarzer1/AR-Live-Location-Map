@@ -25,7 +25,7 @@ Live Map Data/Location |  Mapbox SDK
 <h2 align="left"> Working Demo v0.7</h2>
 https://youtu.be/D-DTVrKra5Y
 
-</h1> <img src="./Images/4.jpeg" width="300" height="300" align="right" align="top"> 
+</h1> <img src="./Images/4.jpeg" width="300" height="300"  align="top"> 
 
 
 <h2 align="left"> Instructions </h2>  
