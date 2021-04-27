@@ -9,6 +9,11 @@ public class SceneManager : MonoBehaviour
 {
     public void GenLoadScenes()
     {
+        Application.LoadLevel("ARFoundationScene 1");
+    }
+
+    public void SatelliteImagery()
+    {
         Application.LoadLevel("ARFoundationScene");
     }
 }
