@@ -13,6 +13,7 @@ This AR application provides a interesting solution to the problem. By using the
 Added functionalities such as:
 <li>The app also provides 3D elevation to houses/buildings with polygons and also shows proper elevation in places like hills etc.<br></li><br></li>
 <li>Added points of interests such as restaurants, services, transport facilities, etc on the map with suitable icons<br></li>
+<li>With v1.2, the user can also see a version of the map with satellite imagery which gives a more accurate description of the environment like hills, plains etc with ofcourse elevation<br></li>
 
 <h2 align="left"> Tech Stack </h2>  
 
