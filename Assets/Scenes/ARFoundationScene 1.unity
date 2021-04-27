@@ -1361,7 +1361,7 @@ PrefabInstance:
     - target: {fileID: 7512167562908490618, guid: 263513c22888aeb4292d2ed03ca11a37,
         type: 3}
       propertyPath: _imagery._layerProperty.rasterOptions.useRetina
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7512167562908490618, guid: 263513c22888aeb4292d2ed03ca11a37,
         type: 3}
@@ -1376,22 +1376,22 @@ PrefabInstance:
     - target: {fileID: 7512167562908490618, guid: 263513c22888aeb4292d2ed03ca11a37,
         type: 3}
       propertyPath: _options.extentOptions.defaultExtents.rangeAroundCenterOptions.east
-      value: 7
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7512167562908490618, guid: 263513c22888aeb4292d2ed03ca11a37,
         type: 3}
       propertyPath: _options.extentOptions.defaultExtents.rangeAroundCenterOptions.west
-      value: 7
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7512167562908490618, guid: 263513c22888aeb4292d2ed03ca11a37,
         type: 3}
       propertyPath: _options.extentOptions.defaultExtents.rangeAroundCenterOptions.north
-      value: 7
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7512167562908490618, guid: 263513c22888aeb4292d2ed03ca11a37,
         type: 3}
       propertyPath: _options.extentOptions.defaultExtents.rangeAroundCenterOptions.south
-      value: 7
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7512167562908490618, guid: 263513c22888aeb4292d2ed03ca11a37,
         type: 3}
