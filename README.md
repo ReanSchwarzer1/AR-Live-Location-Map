@@ -11,9 +11,9 @@ Opening maps, waiting for it to load and searching your location in a small scre
 <h2 align="left"> Solution </h2>  
 This AR application provides a interesting solution to the problem. By using the power of MapBox SDK and AR Foundation, it can successfully show us a 3D map in augmented space with the precise location of the user. The user would know their exact location (no matter whichever part of the world they are from) and also get entertained by using a different kind of app rather than the same monotonous boring one.
 Added functionalities such as:
-<li>The app also provides 3D elevation to houses/buildings with polygons and also shows proper elevation in places like hills etc.<br></li><br></li>
-<li>Added points of interests such as restaurants, services, transport facilities, etc on the map with suitable icons<br></li>
-<li>With v1.2, the user can also see a version of the map with satellite imagery which gives a more accurate description of the environment like hills, plains etc with ofcourse elevation<br></li>
+<li>The app also provides 3D elevation to houses/buildings with polygons and also shows proper elevation in places like hills etc.<br></li>
+<li>Added points of interests such as restaurants, services, transport facilities, etc on the map with suitable icons.<br></li>
+<li>With v1.2, the user can also see a version of the map with satellite imagery which gives a more accurate description of the environment like hills, plains etc with ofcourse elevation.<br></li>
 
 <h2 align="left"> Tech Stack </h2>  
 
@@ -22,6 +22,9 @@ Purpose | Tool
 Base Software/Tool | Unity 2020.4 LTS
 AR Integration | Unity Engine x AR Foundation x Google AR Core
 Live Map Data/Location |  Mapbox SDK
+
+<h2 align="left"> Working Demo v1.2</h2>
+https://youtu.be/EmqoFddtWwY
 
 <h2 align="left"> Working Demo v1.0</h2>
 https://youtu.be/3y-jNCCXjVE
